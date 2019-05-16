@@ -13,3 +13,5 @@ Notes application
  - Create Theme file for common colors
  - Root Redirect
  - Success Error banners for Note CRUD
+ - General Styling
+ 
