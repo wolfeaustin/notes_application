@@ -2,6 +2,7 @@
 Notes application
 
 ## To-Do
+ - Clean up rogue comments
  - Responsive
  - Login/Signup Flow
  - Token Expiration
